@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sounding doubts</title>
     <link>https://berlogabob.github.io/soundingdoubts.github.io/</link>
     <description>Recent content on Sounding doubts</description>
-    <generator>Hugo -- 0.148.2</generator>
+    <generator>Hugo</generator>
     <language>enDus</language>
-    <lastBuildDate>Thu, 31 Jul 2025 00:27:39 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jul 2025 23:11:29 +0100</lastBuildDate>
     <atom:link href="https://berlogabob.github.io/soundingdoubts.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025 07 31</title>
+      <link>https://berlogabob.github.io/soundingdoubts.github.io/post/2025-07-31/</link>
+      <pubDate>Thu, 31 Jul 2025 23:11:29 +0100</pubDate>
+      <guid>https://berlogabob.github.io/soundingdoubts.github.io/post/2025-07-31/</guid>
+      <description>&lt;p&gt;Hey. lets check if github avtion are working&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My First Post</title>
       <link>https://berlogabob.github.io/soundingdoubts.github.io/posts/my-first-post/</link>
@@ -17,57 +24,10 @@
     </item>
     <item>
       <title></title>
-      <link>https://berlogabob.github.io/soundingdoubts.github.io/3d-innovation-studio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://berlogabob.github.io/soundingdoubts.github.io/3d-innovation-studio/</guid>
-      <description>&lt;h1 id=&#34;3d-innovation-studio-page&#34;&gt;3D Innovation Studio Page&lt;/h1&gt;
-&lt;h2 id=&#34;3d-innovation-studio-from-vision-to-reality&#34;&gt;3D Innovation Studio: From Vision to Reality&lt;/h2&gt;
-&lt;p&gt;At &lt;strong&gt;Sounding Doubts&lt;/strong&gt;, we’re pushing the boundaries of creativity and production with our 3D Innovation Studio. Whether you’re envisioning stunning visualizations or producing functional prototypes, our advanced 3D modeling, animation, and manufacturing solutions bring your ideas to life with precision and impact.&lt;/p&gt;
-&lt;h2 id=&#34;our-3d-services&#34;&gt;Our 3D Services&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;3D Modeling &amp;amp; Animation&lt;/strong&gt;: Create high-quality, photorealistic models and animations for product design, marketing, or entertainment. Perfect for industries like architecture, gaming, and product development.
-Visualization: Experience immersive visualizations for design reviews, virtual tours, or simulations. Our tools help you communicate complex ideas with clarity.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
       <link>https://berlogabob.github.io/soundingdoubts.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://berlogabob.github.io/soundingdoubts.github.io/about/</guid>
-      <description>&lt;h1 id=&#34;sounding-doubts&#34;&gt;SOUNDING DOUBTS&lt;/h1&gt;
-&lt;h2 id=&#34;revolutionizing-your-business-with-data-driven-solutions&#34;&gt;Revolutionizing Your Business with Data-Driven Solutions&lt;/h2&gt;
-&lt;p&gt;Your future-proof IT partner is coming soon.
-Are you ready to take your business to the next level? We’re building a cutting-edge IT platform designed to streamline your operations, enhance decision-making, and drive growth.&lt;/p&gt;
-&lt;h2 id=&#34;key-features-include&#34;&gt;Key features include:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Advanced data analytics&lt;/li&gt;
-&lt;li&gt;Seamless project migration&lt;/li&gt;
-&lt;li&gt;Automated workflows&lt;/li&gt;
-&lt;li&gt;Digital document management&lt;/li&gt;
-&lt;li&gt;Stay tuned!&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://berlogabob.github.io/soundingdoubts.github.io/contacts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://berlogabob.github.io/soundingdoubts.github.io/contacts/</guid>
-      <description>&lt;h1 id=&#34;contacts&#34;&gt;Contacts&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Phone&lt;/strong&gt;: +351 913436987
-&lt;strong&gt;e-mail&lt;/strong&gt;: &lt;a href=&#34;mailto:info@soundingdoubts.pt&#34;&gt;info@soundingdoubts.pt&lt;/a&gt;
-&lt;strong&gt;address&lt;/strong&gt;: RUA ANICETO DO ROSÁRIO, 8 2oESQ.
-2700-059, AMADORA, Portugal&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://berlogabob.github.io/soundingdoubts.github.io/privacy-policy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://berlogabob.github.io/soundingdoubts.github.io/privacy-policy/</guid>
-      <description>&lt;h1 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h1&gt;
-&lt;h2 id=&#34;a-commitment-to-innovation-and-sustainability&#34;&gt;A commitment to innovation and sustainability&lt;/h2&gt;
-&lt;p&gt;Privacy Policy for SOUNDING DOUBTS, UNIPESSOAL, LDA&lt;/p&gt;
-&lt;p&gt;At SOUNDING DOUBTS, UNIPESSOAL, LDA (“we”, “our”, or “us”), we value your privacy and are committed to protecting your personal data. This privacy policy explains how we collect, use, and share information about you when you visit our website.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Information We Collect&lt;/strong&gt;
-We may collect the following types of personal information:&lt;/p&gt;
-&lt;p&gt;Contact Information: such as your name, email address, phone number, and any other contact details you provide to us.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://berlogabob.github.io/soundingdoubts.github.io/about/&#34;&gt;https://berlogabob.github.io/soundingdoubts.github.io/about/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
